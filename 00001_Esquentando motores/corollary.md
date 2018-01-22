@@ -29,6 +29,7 @@ program {
 ```
 
 Operacionalmente:
+
 1. Se move ao leste
 2. Em seguida coloca uma vermelha
 3. Logo coloca uma preta
