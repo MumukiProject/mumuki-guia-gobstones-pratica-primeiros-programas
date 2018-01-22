@@ -1,0 +1,3 @@
+**Lembre**: dentro do corpo do programa, as operações se executam em uma **ordem**, de cima para baixo.
+
+Nem sempre é importante, mas nesse caso...
