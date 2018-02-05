@@ -4,6 +4,16 @@ Escreva um programa que desenhe uma bandeira portuguesa, e possa ser vista assim
 
 Como não seremos tão minuciosos, vamos pedir uma versão simplificada, que será visto desta forma:
 
-![portugal.png](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/portugal.png)
+<gs-board>
+  GBB/1.0
+     size 3 2
+     cell 0 0 Verde 1
+     cell 0 1 Verde 1
+     cell 1 0 Rojo 1
+     cell 1 1 Rojo 1
+     cell 2 0 Rojo 1
+     cell 2 1 Rojo 1
+     head 2 1
+<gs-board>
 
 Ah, a garra começa na origem.
