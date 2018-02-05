@@ -2,4 +2,12 @@
 
 Além disso, a garra deve ficar no extremo final da linha, como pode ver na imagem.
 
-![linea-roja-4](https://raw.githubusercontent.com/sagrado-corazon-alcal/mumuki-guia-fundamentos-practica-primeros-programas/master/images/linea-roja-4.png)
+<gs-board>
+  GBB/1.0
+    size 4 2
+    cell 0 0 Rojo 1
+    cell 1 0 Rojo 1
+    cell 2 0 Rojo 1
+    cell 3 0 Rojo 1
+    head 3 0
+<gs-board>
