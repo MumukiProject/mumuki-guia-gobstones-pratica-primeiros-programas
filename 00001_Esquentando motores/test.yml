@@ -1,5 +1,5 @@
 examples:
- - title: Tablero de 2x2
+ - title: Tabuleiro de 2x2
    initial_board: |
      GBB/1.0
      size 2 2
@@ -10,7 +10,7 @@ examples:
      cell 0 0 Rojo 1
      cell 1 0 Negro 1
      head 1 0
- - title: Tablero de 3x2
+ - title: Tabuleiro de 3x2
    initial_board: |
      GBB/1.0
      size 3 2
